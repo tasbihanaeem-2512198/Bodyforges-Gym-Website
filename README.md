@@ -1,6 +1,6 @@
-💪 BodyForces Fitness Website
+💪 BodyForges Fitness Website
 📌 Project Overview
-BodyForces is a modern and responsive fitness website designed to promote gym services, fitness programs, and a healthy lifestyle. The platform provides users with information about workouts, training plans, and gym facilities in a clean and user-friendly interface.
+BodyForges is a modern and responsive fitness website designed to promote gym services, fitness programs, and a healthy lifestyle. The platform provides users with information about workouts, training plans, and gym facilities in a clean and user-friendly interface.
 
 ⚙️ Features
 Responsive and modern UI design
